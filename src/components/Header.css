@@ -1,0 +1,35 @@
+.header{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 45px;
+
+    color: #333333;
+    align-content: center;
+}
+
+.help {
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    color: #333333;
+    margin-left: 950px;
+    margin-top: 46px;
+}
+
+.contactButton {
+    margin-left: 753px;
+    color: #88024E;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.container{
+    margin-left: 56px;
+}
